@@ -81,3 +81,5 @@ Verify :
 Would you like to enter a view-only password (y/ n)?
 ```
 Hit `n`
+BOOM ur in
+press F8 to disconnect
