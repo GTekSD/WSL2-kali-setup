@@ -68,3 +68,16 @@ Installing Other Linux apps
 ```
 sudo apt install gimp -y
 ```
+
+
+For Windows 10. Setup Kex
+```
+kex --win -s
+```
+Enter password
+```
+Password :
+Verify :
+Would you like to enter a view-only password (y/ n)?
+```
+Hit `n`
