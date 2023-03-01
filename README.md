@@ -106,3 +106,7 @@ Options:
   --distribution, -d      Specifies the distribution to use.
   --help, -h              Displays this help message.
 ```
+
+# Screenshots
+--------------
+![neofetch-wsl](https://user-images.githubusercontent.com/55411358/222261692-573bbe80-8ff3-4432-88f4-00abca11c8e9.png)
