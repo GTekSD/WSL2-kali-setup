@@ -83,3 +83,26 @@ Would you like to enter a view-only password (y/ n)?
 Hit `n`
 BOOM ur in
 press F8 to disconnect
+
+
+
+## WSL HELP
+```
+wsl --help
+
+Usage: wsl.exe [Argument] [Options]
+
+Arguments:
+  --list, -l              List the available distributions.
+  --set-default <Distro>  Set the specified distribution as the default.
+  --unregister <Distro>   Unregister the distribution.
+
+Options:
+  --import                Imports a distribution.
+  --terminate             Terminates the specified distribution.
+  --exec, -e              Execute a command in the specified distribution.
+  --run, -r               Run the specified command in the specified distribution.
+  --user                  Run as the specified user.
+  --distribution, -d      Specifies the distribution to use.
+  --help, -h              Displays this help message.
+```
