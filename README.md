@@ -84,6 +84,9 @@ Hit `n`
 BOOM ur in
 press F8 to disconnect
 
+zsh update
+```sudo apt install zsh*```
+```cp /etc/skel/.zshrc ~/```
 
 
 ## WSL HELP
