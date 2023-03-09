@@ -2,6 +2,21 @@
 
 In windows terminal
 ```
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+```
+Output:
+```
+Deployment Image Servicing and Management tool
+Version: 10.0.22621.1
+
+Image Version: 10.0.22621.1265
+
+Enabling feature(s)
+[==========================100.0%==========================]
+The operation completed successfully.
+
+```
+```
 wsl --install
 ```
 Output:
@@ -29,7 +44,14 @@ Output:
 Windows Subsystem for Linux Distributions:
 Ubuntu (Default)
 ```
-
+```
+wsl --set-default-version 2
+```
+output:
+```
+For information on key differences with WSL 2 please visit https://aka.ms/wsl2
+The operation completed successfully.
+```
 install kali
 ```
 wsl --list --online
