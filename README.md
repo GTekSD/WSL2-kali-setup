@@ -108,7 +108,8 @@ press F8 to disconnect
 
 zsh update
 ```sudo apt install zsh*```
-```cp /etc/skel/.zshrc ~/```
+```chsh -s $(which zsh)```
+Note: If you encounter any issues, you can always switch back to bash by running the command `chsh -s /bin/bash`.
 
 
 ## WSL HELP
