@@ -63,12 +63,12 @@ To set Zsh as the default shell, run the following command:
 chsh -s $(which zsh)
 ```
 
-### Step 8: Set Zsh as the Default Shell (Optional)
+### Step 8: If you have the space, why not install “Kali with the lot”? (Optional)
 
-To set Zsh as the default shell, run the following command:
+Here, run the following command:
 
 ```
-chsh -s /bin/bash
+sudo apt install -y kali-linux-large
 ```
 
 That's it! You should now have Kali Linux installed in WSL with optional GUI and Zsh shell support. Your computer has now become a lethal weapon! 💣🚀💥
