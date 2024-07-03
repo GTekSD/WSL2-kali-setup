@@ -38,6 +38,10 @@ To install the Kali Linux desktop environment (XFCE), run the following command:
 ```
 sudo apt install kali-win-kex -y
 ```
+Or u can use, kali-tweaks to install as per ur requirement.
+```
+kali-tweaks
+```
 
 ### Step 6: Start Kali Linux Desktop Environment (Optional)
 
